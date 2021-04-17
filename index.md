@@ -32,8 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edgartt/edgartt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+```markdown
 ### Support or Contact
-
+```
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 ![kali4](https://user-images.githubusercontent.com/60557257/115126331-f5561380-9f93-11eb-8201-fc410c08aa67.jpg)
